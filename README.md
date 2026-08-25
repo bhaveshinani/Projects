@@ -1,15 +1,16 @@
 # Projects
 
-This repository contains selected projects in machine learning, data analysis, and derivatives analytics.
+This repository contains projects in machine learning, data analysis, and derivatives analytics.
 
 ## Machine Learning & Data Analysis
 
-- Airline Passenger Recommender
-- Bike Sharing Demand Prediction
-- Telecom Churn Analysis
-- Netflix TV & Movie Clustering
+- [Airline Passenger Recommender](AirlinePassengerRecommender.ipynb)
+- [Bike Sharing Demand Prediction](BikeSharingDemandPrediction.ipynb)
+- [Telecom Churn Analysis](EDA_Telecom_Churn_Analysis.ipynb)
+- [Netflix TV & Movie Clustering](NetflixTV_MovieClustering.ipynb)
 
 ## Derivatives Analytics
 
-- Options Dynamics and Greeks
-- Covered Call Payoff Analysis
+- [Task 1: Options Dynamics](Task1_Report.pdf)
+- [Task 2: Greeks Calculator](Task2_Greeks_Calculator.ipynb)
+- [Task 3: Covered Call Payoff Analysis](Task3_Covered_Call.ipynb)
